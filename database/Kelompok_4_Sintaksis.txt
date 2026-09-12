@@ -1,0 +1,78 @@
+KELOMPOK 4
+SINTAKSIS (FRASA, KLAUSA, KALIMAT)
+
+A. Pengertian Sintaksis
+Sintaksis adalah cabang linguistik yang mengkaji hubungan antarkata dan satuan yang lebih besar dalam pembentukan konstruksi bahasa, terutama frasa, klausa, dan kalimat. Sintaksis menjelaskan bagaimana unsur-unsur bahasa disusun sehingga membentuk struktur yang dapat dipahami.
+
+B. Frasa
+Frasa adalah gabungan dua kata atau lebih yang bersifat nonpredikatif dan berfungsi sebagai satu kesatuan dalam struktur yang lebih besar.
+Contoh:
+- mahasiswa baru
+- sangat rajin
+- di kampus
+- telah membaca buku
+
+Berdasarkan unsur pusatnya, frasa dapat dibedakan menjadi frasa nominal, verbal, adjektival, adverbial, dan preposisional.
+
+C. Klausa
+Klausa merupakan satuan gramatikal yang sekurang-kurangnya memiliki hubungan predikatif, biasanya ditandai oleh adanya subjek dan predikat.
+Contoh:
+- Mahasiswa membaca.
+- Dosen menjelaskan materi.
+- ketika mahasiswa datang.
+
+Klausa dapat berupa klausa bebas yang dapat berdiri sebagai kalimat atau klausa terikat yang bergantung pada unsur lain.
+
+D. Kalimat
+Kalimat adalah satuan bahasa yang secara relatif dapat berdiri sendiri dan memiliki struktur gramatikal serta intonasi atau tanda baca tertentu dalam bahasa tulis.
+Contoh:
+“Mahasiswa itu membaca novel.”
+Struktur dasarnya dapat dianalisis sebagai S + P + O.
+
+E. Unsur Kalimat
+Unsur yang umum dibahas:
+1. Subjek (S)
+2. Predikat (P)
+3. Objek (O)
+4. Pelengkap (Pel)
+5. Keterangan (K)
+
+Contoh:
+“Mahasiswa membaca novel di perpustakaan.”
+S = Mahasiswa; P = membaca; O = novel; K = di perpustakaan.
+
+F. Jenis Kalimat Berdasarkan Struktur
+1. Kalimat tunggal: memiliki satu klausa.
+2. Kalimat majemuk setara: klausa-klausanya berkedudukan setara.
+3. Kalimat majemuk bertingkat: terdapat induk kalimat dan anak kalimat.
+4. Kalimat kompleks campuran: menggabungkan hubungan setara dan bertingkat.
+
+G. Kalimat Berdasarkan Fungsi Komunikatif
+1. Deklaratif: menyampaikan informasi.
+2. Interogatif: meminta informasi.
+3. Imperatif: meminta atau memerintah.
+4. Eksklamatif: mengungkapkan perasaan kuat.
+
+H. Keefektifan Kalimat
+Kalimat efektif memiliki kesatuan gagasan, kepaduan, keparalelan, kehematan, kecermatan, dan ketepatan logis. Kesalahan yang sering ditemukan ialah subjek ganda, penggunaan kata mubazir, ketidakparalelan bentuk, dan hubungan antarklausa yang tidak jelas.
+
+Contoh kurang efektif:
+“Para mahasiswa-mahasiswa sedang berdiskusi.”
+Perbaikan:
+“Para mahasiswa sedang berdiskusi.”
+atau
+“Mahasiswa-mahasiswa sedang berdiskusi.”
+
+I. Analisis Sintaksis
+Analisis sintaksis dapat dilakukan dengan menentukan kategori, fungsi, dan peran unsur. Mahasiswa dapat menggunakan teknik substitusi, perluasan, penghilangan, dan pemindahan untuk menguji struktur.
+
+J. Kesimpulan
+Sintaksis membantu menjelaskan cara kata bergabung menjadi frasa, klausa, dan kalimat. Penguasaan sintaksis penting untuk menghasilkan kalimat yang gramatikal, efektif, dan sesuai tujuan komunikasi.
+
+REFERENSI
+1. Alwi, Hasan, dkk. (2017). Tata Bahasa Baku Bahasa Indonesia (Edisi Keempat). Jakarta: Balai Pustaka.
+2. Putrayasa, Ida Bagus. (2017). Analisis Kalimat: Fungsi, Kategori, dan Peran. Bandung: Refika Aditama.
+3. Yendra. (2018). Mengenal Ilmu Bahasa (Linguistik). Yogyakarta: Deepublish.
+4. Chaer, Abdul. (2015). Sintaksis Bahasa Indonesia: Pendekatan Proses. Jakarta: Rineka Cipta.
+5. Mahsun. (2017). Metode Penelitian Bahasa: Tahapan, Strategi, Metode, dan Tekniknya. Depok: Rajawali Pers.
+
