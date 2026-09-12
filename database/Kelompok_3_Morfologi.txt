@@ -1,0 +1,64 @@
+KELOMPOK 3
+MORFOLOGI (KATA DAN PEMBENTUKAN KATA)
+
+A. Pengertian Morfologi
+Morfologi adalah cabang linguistik yang mengkaji struktur internal kata, satuan pembentuk kata, serta proses pembentukan kata. Dalam Bahasa Indonesia, kajian morfologi penting untuk memahami hubungan antara bentuk dasar, afiks, dan makna gramatikal maupun leksikal.
+
+B. Morfem
+Morfem adalah satuan bahasa terkecil yang memiliki makna atau fungsi gramatikal. Morfem dapat berupa morfem bebas dan morfem terikat.
+Contoh:
+- rumah: morfem bebas.
+- ber-, meN-, -kan, -i: morfem terikat.
+Kata “bermain” dapat dianalisis sebagai ber- + main.
+
+C. Kata Dasar dan Kata Turunan
+Kata dasar merupakan bentuk yang dapat menjadi dasar pembentukan kata lain. Kata turunan terbentuk melalui proses morfologis.
+Contoh:
+ajar -> belajar, mengajar, pengajar, pelajaran, pengajaran.
+
+D. Afiksasi
+Afiksasi adalah proses penambahan afiks pada bentuk dasar. Afiks Bahasa Indonesia meliputi prefiks, sufiks, infiks, dan konfiks.
+1. Prefiks: meN-, ber-, ter-, di-, peN-, se-, ke-.
+2. Sufiks: -kan, -i, -an.
+3. Infiks: -el-, -em-, -er- pada sejumlah bentuk.
+4. Konfiks: ke-...-an, peN-...-an, per-...-an, ber-...-an.
+
+Contoh:
+tulis -> menulis, ditulis, penulis, tulisan, menuliskan.
+
+E. Reduplikasi
+Reduplikasi adalah pengulangan bentuk atau bagian bentuk untuk menghasilkan makna atau fungsi tertentu.
+Contoh:
+- rumah-rumah: jamak.
+- berjalan-jalan: melakukan kegiatan secara santai/berulang.
+- sayur-mayur: pengulangan dengan perubahan bunyi.
+
+F. Komposisi
+Komposisi atau pemajemukan merupakan proses menggabungkan dua unsur atau lebih menjadi satu kesatuan leksikal.
+Contoh: rumah sakit, kereta api, tanggung jawab, meja makan.
+Makna gabungan tidak selalu sama dengan penjumlahan makna setiap unsur secara sederhana.
+
+G. Konversi dan Abreviasi
+Konversi adalah perubahan fungsi/kategori suatu bentuk tanpa perubahan bentuk yang berarti dalam konteks tertentu. Abreviasi meliputi singkatan, penggalan, akronim, dan lambang.
+
+H. Morfofonemik
+Morfofonemik membahas perubahan bunyi yang muncul karena proses morfologis. Salah satu contoh adalah perubahan bentuk prefiks meN-:
+meN- + pakai -> memakai
+meN- + tulis -> menulis
+meN- + sapu -> menyapu
+meN- + kirim -> mengirim.
+Perubahan tersebut berhubungan dengan kaidah pembentukan kata dan penyesuaian bunyi.
+
+I. Pentingnya Morfologi
+Morfologi membantu penutur memahami makna kata, memilih bentuk kata yang tepat, menghindari kesalahan pembentukan kata, dan menganalisis proses perkembangan kosakata Bahasa Indonesia.
+
+J. Kesimpulan
+Kata dalam Bahasa Indonesia dibentuk melalui berbagai proses, terutama afiksasi, reduplikasi, komposisi, dan abreviasi. Penguasaan morfologi menjadi dasar untuk memahami struktur kalimat dan penggunaan kata secara efektif.
+
+REFERENSI
+1. Chaer, Abdul. (2015). Morfologi Bahasa Indonesia: Pendekatan Proses. Jakarta: Rineka Cipta.
+2. Kridalaksana, Harimurti. (2016). Pembentukan Kata dalam Bahasa Indonesia. Jakarta: Gramedia Pustaka Utama.
+3. Muslich, Masnur. (2018). Tata Bentuk Bahasa Indonesia: Kajian ke Arah Tatabahasa Deskriptif. Jakarta: Bumi Aksara.
+4. Yendra. (2018). Mengenal Ilmu Bahasa (Linguistik). Yogyakarta: Deepublish.
+5. Mahsun. (2017). Metode Penelitian Bahasa: Tahapan, Strategi, Metode, dan Tekniknya. Depok: Rajawali Pers.
+

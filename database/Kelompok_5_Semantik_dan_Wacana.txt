@@ -1,0 +1,50 @@
+KELOMPOK 5
+SEMANTIK DAN WACANA
+
+A. Pengertian Semantik
+Semantik adalah cabang linguistik yang mempelajari makna bahasa. Kajian semantik dapat berfokus pada makna kata, hubungan antarmakna, dan makna yang muncul dalam struktur bahasa.
+
+B. Makna Leksikal dan Gramatikal
+Makna leksikal berkaitan dengan makna yang terdapat pada leksem/kata, sedangkan makna gramatikal muncul karena proses atau hubungan gramatikal.
+Contoh: “rumah” memiliki makna leksikal; bentuk “rumah-rumah” memiliki tambahan makna gramatikal berupa jamak.
+
+C. Relasi Makna
+1. Sinonimi: hubungan kemiripan makna, misalnya pintar–pandai.
+2. Antonimi: pertentangan makna, misalnya besar–kecil.
+3. Hiponimi: hubungan khusus-umum, misalnya mawar merupakan hiponim bunga.
+4. Meronimi: hubungan bagian-keseluruhan.
+5. Polisemi: satu bentuk memiliki beberapa makna yang masih berkaitan.
+6. Homonimi: bentuk sama tetapi makna berbeda.
+
+D. Makna Denotatif dan Konotatif
+Makna denotatif berkaitan dengan makna yang relatif literal atau referensial. Makna konotatif mengandung asosiasi, nilai rasa, atau nuansa tertentu. Dalam sastra dan media, perbedaan ini sangat penting karena kata dapat menghasilkan efek emosional tertentu.
+
+E. Konteks dan Pragmatik
+Makna tidak selalu dapat dipahami hanya dari kata atau kalimat. Situasi, penutur, lawan tutur, tujuan, dan pengetahuan bersama ikut menentukan interpretasi. Karena itu, semantik perlu dibedakan tetapi juga dihubungkan dengan pragmatik.
+
+F. Pengertian Wacana
+Wacana adalah satuan bahasa yang lebih besar daripada kalimat dan digunakan dalam konteks komunikasi. Wacana dapat berupa lisan atau tulis dan dapat hadir sebagai percakapan, berita, artikel, pidato, iklan, karya ilmiah, dan karya sastra.
+
+G. Kohesi dan Koherensi
+Kohesi adalah keterkaitan formal antarbentuk bahasa dalam wacana. Kohesi dapat berupa referensi, substitusi, elipsis, konjungsi, dan kohesi leksikal.
+Koherensi adalah keterkaitan makna atau hubungan logis antargagasan sehingga wacana terasa utuh.
+
+H. Jenis Wacana
+Wacana dapat dibedakan menurut tujuan dan bentuknya, misalnya narasi, deskripsi, eksposisi, argumentasi, persuasi, dialog, dan wacana ilmiah. Satu teks dapat mengandung lebih dari satu jenis secara bersamaan.
+
+I. Analisis Wacana
+Analisis wacana dapat mengkaji struktur, pilihan kata, hubungan antarkalimat, konteks, ideologi, kekuasaan, dan posisi penutur. Pendekatan dipilih sesuai tujuan penelitian.
+
+J. Wacana Digital
+Media sosial menghasilkan wacana dengan ciri multimodal: teks dapat berpadu dengan gambar, video, emoji, tautan, dan simbol. Bahasa digital juga cenderung lebih singkat, interaktif, dan cepat berubah.
+
+K. Kesimpulan
+Semantik membantu memahami makna, sedangkan wacana membantu melihat penggunaan bahasa sebagai satu kesatuan dalam konteks. Keduanya penting untuk membaca teks secara kritis dan memahami pesan tersurat maupun tersirat.
+
+REFERENSI
+1. Chaer, Abdul. (2016). Pengantar Semantik Bahasa Indonesia. Jakarta: Rineka Cipta.
+2. Sumarlam. (2019). Analisis Wacana: Teori dan Praktik. Surakarta: Pustaka Cakra.
+3. Sobur, Alex. (2018). Analisis Teks Media: Suatu Pengantar untuk Analisis Wacana, Analisis Semiotik, dan Analisis Framing. Bandung: Remaja Rosdakarya.
+4. Yendra. (2018). Mengenal Ilmu Bahasa (Linguistik). Yogyakarta: Deepublish.
+5. Mahsun. (2017). Metode Penelitian Bahasa: Tahapan, Strategi, Metode, dan Tekniknya. Depok: Rajawali Pers.
+

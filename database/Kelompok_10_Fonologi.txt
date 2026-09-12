@@ -1,0 +1,22 @@
+MATERI 10 — FONOLOGI
+
+Pengertian
+Fonologi merupakan cabang linguistik yang mempelajari bunyi bahasa sebagai unsur yang membentuk dan membedakan makna dalam suatu bahasa.
+
+Pokok Materi
+1. Fonetik dan fonologi
+2. Bunyi vokal dan konsonan
+3. Fonem
+4. Alofon
+5. Suku kata
+6. Pasangan minimal
+
+Contoh
+Kata “paku” dan “baku” memiliki perbedaan satu bunyi, yaitu /p/ dan /b/. Perbedaan tersebut menyebabkan perbedaan makna sehingga kedua bunyi itu berfungsi sebagai fonem yang berbeda.
+
+Analisis sederhana
+Kata “bahasa” dapat diuraikan berdasarkan bunyi-bunyi yang menyusunnya. Pengamatan seperti ini membantu memahami hubungan antara bunyi dan sistem bahasa.
+
+REFERENSI
+- Hayes, Bruce. (2019). Introductory Phonology. Wiley-Blackwell.
+- Odden, David. (2019). Introducing Phonology (2nd ed.). Cambridge University Press.
