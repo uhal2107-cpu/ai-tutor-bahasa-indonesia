@@ -242,7 +242,7 @@ else:
             "Uji pemahamanmu dengan menjawab 5 soal pilihan ganda "
             "berdasarkan materi yang sedang dipelajari."
         )
-
+        st.info("📊 Progres Kuis: 5 soal | Semua soal wajib dijawab")
         # Membuat pencocokan nama materi yang aman
         kunci_kuis = None
 
@@ -259,11 +259,13 @@ else:
         soal_kuis = QUIZ_DATA.get(kunci_kuis, [])
 
         if soal_kuis:
-
+            if "percobaan_kuis" not in st.session_state:
+                st.session_state.percobaan_kuis = 0
+            
             jawaban_kuis = []
 
             with st.form(
-                f"form_kuis_{pilihan}"
+                f"form_kuis_{pilihan}_{st.session_state.percobaan_kuis}"
             ):
 
                 for nomor, soal in enumerate(
@@ -278,7 +280,8 @@ else:
                     jawaban = st.radio(
                         "Pilih jawaban:",
                         soal["options"],
-                        key=f"{pilihan}_{nomor}"
+                        index=None,
+                        key=f"{pilihan}_{st.session_state.percobaan_kuis}_{nomor}"
                     )
 
                     jawaban_kuis.append(jawaban)
@@ -289,27 +292,23 @@ else:
                     "✅ Periksa Nilai"
                 )
 
-            if tombol_nilai:
+        if tombol_nilai:
+                if None in jawaban_kuis:
+                        st.warning(
+                        "⚠️ Silakan jawab semua soal terlebih dahulu."
+                    )
+                        st.stop()
 
                 jumlah_benar = 0
 
-                for index, soal in enumerate(
-                    soal_kuis
-                ):
-
-                    jawaban_benar = soal["options"][
-                        soal["answer"]
-                    ]
+                for index, soal in enumerate(soal_kuis):
+                    jawaban_benar = soal["options"][soal["answer"]]
 
                     if jawaban_kuis[index] == jawaban_benar:
-
                         jumlah_benar += 1
 
                 nilai = round(
-                    (
-                        jumlah_benar
-                        / len(soal_kuis)
-                    ) * 100
+                    (jumlah_benar / len(soal_kuis)) * 100
                 )
 
                 st.divider()
@@ -326,7 +325,6 @@ else:
                 )
 
                 if nilai >= 80:
-
                     st.balloons()
 
                     st.success(
@@ -335,18 +333,17 @@ else:
                     )
 
                 elif nilai >= 60:
-
                     st.info(
                         "👍 Cukup baik! "
                         "Coba pelajari kembali bagian yang belum dikuasai."
                     )
 
                 else:
-
                     st.warning(
                         "📖 Sebaiknya baca kembali materi "
                         "dan coba kerjakan kuis lagi."
                     )
+
                 # -------------------------------------------------
                 # PEMBAHASAN JAWABAN
                 # -------------------------------------------------
@@ -356,11 +353,7 @@ else:
                 st.subheader("📖 Pembahasan Jawaban")
 
                 for index, soal in enumerate(soal_kuis):
-
-                    jawaban_benar = soal["options"][
-                        soal["answer"]
-                    ]
-
+                    jawaban_benar = soal["options"][soal["answer"]]
                     jawaban_pengguna = jawaban_kuis[index]
 
                     st.markdown(
@@ -368,13 +361,10 @@ else:
                     )
 
                     if jawaban_pengguna == jawaban_benar:
-
                         st.success(
                             f"✅ Benar! Jawabanmu: **{jawaban_pengguna}**"
                         )
-
                     else:
-
                         st.error(
                             f"❌ Jawabanmu: **{jawaban_pengguna}**"
                         )
@@ -384,6 +374,17 @@ else:
                         )
 
                     st.write("")
+
+        if st.button("🔄 Coba Lagi", key=f"ulang_{pilihan}"):
+                    percobaan_lama = st.session_state.percobaan_kuis
+
+                    for nomor in range(1, len(soal_kuis) + 1):
+                        kunci_lama = f"{pilihan}_{percobaan_lama}_{nomor}"
+                        st.session_state.pop(kunci_lama, None)
+
+                    st.session_state.percobaan_kuis += 1
+                    st.rerun()
+                
         else:
 
             st.warning(
