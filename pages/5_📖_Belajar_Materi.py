@@ -385,11 +385,7 @@ else:
                     st.session_state.percobaan_kuis += 1
                     st.rerun()
                 
-        else:
 
-            st.warning(
-                "⚠️ Kuis untuk materi ini belum tersedia."
-            )
 
 # =========================================================
 # FOOTER
