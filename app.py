@@ -59,7 +59,77 @@ footer{visibility:hidden;height:0!important},#MainMenu,footer{visibility:hidden;
 .topic-visual{animation:fadeUp .45s ease-out both}.topic-action{animation:fadeUp .45s ease-out both}.topic-action .stButton{margin-top:0!important}.topic-action .stButton>button{margin-top:0!important}
 [data-testid="column"]{min-width:0}
 @media(max-width:900px){.hero-title{font-size:2.45rem}.hero{padding:1.2rem 1.35rem}.section-head{align-items:flex-start;flex-direction:column;gap:.25rem}}
-@media(max-width:700px){.hero-title{font-size:2.15rem}.hero:after{font-size:2.4rem}.hero-badges{gap:.35rem}.section-title{font-size:1.45rem}}
+@media(max-width:700px){
+    .hero{
+        padding:1rem .85rem;
+        border-radius:16px;
+        margin-bottom:1rem;
+    }
+
+    .hero-title{
+        font-size:1.8rem;
+        line-height:1.15;
+        margin-bottom:.5rem;
+    }
+
+    .hero:after{
+        font-size:2rem;
+    }
+
+    .hero-badges{
+        gap:.3rem;
+        flex-wrap:wrap;
+    }
+
+    .section-head{
+        gap:.2rem;
+        margin-bottom:.7rem;
+    }
+
+    .section-title{
+        font-size:1.3rem;
+        line-height:1.25;
+    }
+
+    .section-subtitle{
+        font-size:.85rem;
+        line-height:1.4;
+    }
+
+    .stButton>button{
+        min-height:44px;
+        font-size:.85rem;
+        padding:.55rem .7rem;
+    }
+
+    textarea{
+        font-size:16px!important;
+    }
+
+    [data-testid="stTextArea"]{
+        width:100%;
+    }
+
+    [data-testid="column"]{
+        width:100%!important;
+        flex:1 1 100%!important;
+        min-width:100%!important;
+    }
+
+    .question-shell{
+        padding:.9rem;
+        border-radius:14px;
+    }
+
+    .question-title{
+        font-size:1rem;
+    }
+
+    .question-sub{
+        font-size:.8rem;
+        line-height:1.4;
+    }
+}
 .stButton>button{border-radius:12px;transition:transform .18s ease,box-shadow .18s ease}.stButton>button:hover{transform:translateY(-2px);box-shadow:0 7px 18px rgba(74,58,44,.10)}.stButton>button[kind='primary']{background:#8b6248!important;border:1px solid #8b6248!important;color:white!important;box-shadow:0 8px 18px rgba(139,98,72,.18)!important}.stButton>button[kind='primary']:hover{background:#76513c!important;border-color:#76513c!important;box-shadow:0 12px 24px rgba(139,98,72,.25)!important}
 .topic-card,.topic-card:visited,.topic-card:hover,.topic-card:active{color:#332d27!important;text-decoration:none!important}
 .topic-card{cursor:pointer}
