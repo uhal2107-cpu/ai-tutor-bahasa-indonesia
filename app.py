@@ -24,7 +24,7 @@ st.markdown(r"""
 body,.stApp,.stMarkdown,p,div,span,button,input,textarea{font-family:'DM Sans',Arial,sans-serif}
 .hero-title,.section-title,.question-title,.topic-card h3,.topic-visual h3,.stat-number,.brand-name,.quote,.fact-title,.popular-title{font-family:'Playfair Display',Georgia,serif}
 .stApp{background:radial-gradient(circle at 93% 13%,rgba(206,193,174,.28) 0 150px,transparent 151px),radial-gradient(circle at 8% 82%,rgba(215,196,174,.25) 0 170px,transparent 171px),linear-gradient(135deg,#fbf8f3,#f3ece2 52%,#f8f4ee);color:var(--ink)}
-header,[data-testid="stHeader"],#MainMenu,footer{visibility:hidden;height:0!important}
+footer{visibility:hidden;height:0!important},#MainMenu,footer{visibility:hidden;height:0!important}
 [data-testid="stAppViewContainer"]{background:transparent}
 [data-testid="stAppViewContainer"]>.main{background:transparent;padding-top:0!important}
 [data-testid="stSidebar"]{background:rgba(250,247,242,.95);border-right:1px solid var(--line)}
@@ -580,6 +580,10 @@ for i, p in enumerate(contoh):
             st.session_state.pertanyaan_input = p
             st.rerun()
 
+def bersihkan_pertanyaan():
+    st.session_state.riwayat = []
+    st.session_state.pertanyaan_input = ""
+
 st.markdown(r'<div class="question-shell"><div class="question-head"><div class="ai-dot">🤖</div><div><div class="question-title">Tanyakan kepada AI Tutor</div><div class="question-sub">Ketik pertanyaanmu di bawah ini. AI akan mencari jawaban dari materi yang paling relevan.</div></div></div></div>',unsafe_allow_html=True)
 pertanyaan=st.text_area(
     "Pertanyaan",
@@ -587,15 +591,19 @@ pertanyaan=st.text_area(
     placeholder="Apa yang ingin kamu ketahui?",
     height=95,
     label_visibility="collapsed"
+
 )
+
+
 col_tanya,col_bersih=st.columns([4,1])
 with col_tanya:
     tombol_tanya=st.button("➤  TANYAKAN",type="primary",use_container_width=True)
 with col_bersih:
-    if st.button("↺ Bersihkan",use_container_width=True):
-        st.session_state.riwayat=[]
-        st.session_state.pertanyaan_input=""
-        st.rerun()
+    st.button (
+        "↺ Bersihkan",
+        use_container_width=True,
+        on_click=bersihkan_pertanyaan
+    )
 
 # =========================================================
 # PROSES
